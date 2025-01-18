@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Isis Katherine e eu sou Estudante de Ciêndas da Computação</p>
+<p align="left">Oi! Eu sou a Ísis Katherine, estudante de Ciências da Computação na Unic. Sou apaixonada por tecnologia, programação e sempre busco aprender algo novo para crescer como desenvolvedora.</p>
 
 ###
 
@@ -10,7 +10,24 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estou aprendendo PHP<br>🎯 Objetivos: ...<br>🎲 Curiosidade: ...</p>
+# Olá, eu sou [Seu Nome]! 👋
+
+## ✨ Criando soluções desde 2022
+Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Comecei minha jornada no mundo da programação em 2022 e, desde então, estou sempre buscando aprender e melhorar minhas habilidades.
+
+## 📚 Atualmente estou aprendendo PHP
+Atualmente, estou me aprofundando em PHP e explorando suas capacidades para criar aplicações dinâmicas, seguras e escaláveis.
+
+## 🎯 Objetivos
+- Aprimorar minhas habilidades em PHP, desenvolvendo projetos práticos.
+- Contribuir com projetos open-source e melhorar minhas práticas de desenvolvimento.
+- Continuar aprendendo novas tecnologias e metodologias para resolver problemas complexos.
+
+## 🎲 Curiosidade
+- Tenho um grande interesse por sistemas complexos e como otimizar o desempenho em aplicações.
+
+## 📬 Vamos conversar!
+Se você estiver interessado em colaborar, discutir ideias ou apenas trocar experiências, sinta-se à vontade para entrar em contato!
 
 ###
 
