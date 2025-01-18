@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Ei 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é ... e eu sou ..., de ....</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Criando bugs desde ...<br>📚 Atualmente estou aprendendo ...<br>🎯 Objetivos: ...<br>🎲 Curiosidade: ...</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu programo com</h2>
 
 ###
 
