@@ -20,8 +20,8 @@ Se você estiver interessada em colaborar, discutir ideias ou apenas trocar expe
 ---
 
 **Siga-me nas redes sociais:**
-- GitHub: [Isis Katherine](https://github.com/IsisKatherine)
-- LinkedIn: [Isis Katherine](https://www.linkedin.com/in/isis-katherine/)
+
+[ <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg" height="40" alt="linker"  /><img width="12" />](https://www.linkedin.com/in/isis-katherine/)
 
 ###
 
