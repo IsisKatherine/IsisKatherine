@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é ... e eu sou ..., de ....</p>
+<p align="left">Meu nome é Isis Katherine e eu sou Estudante de Ciêndas da Computação</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde ...<br>📚 Atualmente estou aprendendo ...<br>🎯 Objetivos: ...<br>🎲 Curiosidade: ...</p>
+<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estou aprendendo PHP<br>🎯 Objetivos: ...<br>🎲 Curiosidade: ...</p>
 
 ###
 
