@@ -36,6 +36,14 @@ Se você estiver interessada em colaborar, discutir ideias ou apenas trocar expe
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-plain.svg" height="40" alt="postgreesql logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-original.svg" height="40" alt="sqllite logo"  />
+  <img width="12" />
 </div>
 
 ###
