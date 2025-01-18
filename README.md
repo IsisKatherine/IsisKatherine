@@ -47,3 +47,8 @@ Se você estiver interessada em colaborar, discutir ideias ou apenas trocar expe
 </div>
 
 ###
+
+![IsisKatherine's Stats](https://github-readme-stats.vercel.app/api?username=IsisKatherine&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![IsisKatherine's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsisKatherine&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+
+###
